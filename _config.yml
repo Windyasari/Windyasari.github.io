@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Windyasari.github.io
+title: windyasari
+email: windyvintage@gmail.com
+author: Windyasari Septriani
+description: My thoughts
+paginate: 5
+google_analytics: 
